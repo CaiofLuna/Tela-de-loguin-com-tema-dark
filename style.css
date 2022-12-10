@@ -137,3 +137,19 @@ body * {
         width: 90%;
     }
 }
+
+@media only screen and (min-width: 2300px){
+    
+    .left-login{
+        width: 100%;
+        height: auto;
+    }
+
+    .left-login-img{
+        width: 50vh;
+    }
+
+    .card-login{
+        width: 90%;
+    }
+}
